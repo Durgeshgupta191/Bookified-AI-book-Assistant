@@ -59,10 +59,3 @@ Bookified is an AI-powered platform that lets you have real-time voice conversat
 👉 **Auth & Subscription**: Secure user access via email and social login, paired with a robust billing system to manage premium features and platform subscriptions.
 
 
-
-## <a name="links">🔗 Assets</a>
-
-
-<a href="https://jsm.dev/books-jsm" target="_blank">
-  <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
-</a>
